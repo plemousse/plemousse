@@ -9,11 +9,19 @@
 <a href="https://github.com/plemousse/Next_js_import_json
 ">lien du projet </a></p>
 
-<h4 align="left">The Hacking Project :</h4>
+<h4 align="left">Csharp:</h4>
 
-<p align="left">- Next.JS importer un JSON : 
+<p align="left">- Csharp projet du juste prix : 
+<a href="https://github.com/plemousse/Csharp_first_game_project
+">lien du projet </a></p>
+
+<h4 align="left">Ruby on rails :</h4>
+
+<p align="left">- Portfolio : 
 <a href="https://github.com/plemousse/portfolio
 ">lien du projet </a></p>
+
+<h4 align="left">The Hacking Project :</h4>
 
 <p align="left">- forum en ruby on rails : 
 <a href="https://github.com/plemousse/THP_THE_FINAL_GOSSIP
