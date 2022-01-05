@@ -17,13 +17,13 @@
 
 <h4 align="left">Ruby on rails :</h4>
 
-<p align="left">- Portfolio : 
+<p align="left">- Ébauche de portfolio : 
 <a href="https://github.com/plemousse/portfolio
 ">lien du projet </a></p>
 
 <h4 align="left">The Hacking Project :</h4>
 
-<p align="left">- forum en ruby on rails : 
+<p align="left">- Forum en ruby on rails : 
 <a href="https://github.com/plemousse/THP_THE_FINAL_GOSSIP
 ">lien du projet </a></p>
 
